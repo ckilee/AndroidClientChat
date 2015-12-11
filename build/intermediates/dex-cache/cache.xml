@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ckilee/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/okio-1.4.0-18cf63e1201606c2c70560559e73452f2a09b84a.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/classes-a16ae368bb7b87385f2d68a0b3458c60a5def013.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.4.0/69206d28966656052a982ceded583abdeb41cf63/okhttp-ws-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69206d28966656052a982ceded583abdeb41cf63">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.4.0-c1425b17cc8428aa9be71da50d720483d4b03e9c.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.5.1/c83503e6668d63b3d5b2a27edf6e3a54d9eb7a66/engine.io-client-0.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c83503e6668d63b3d5b2a27edf6e3a54d9eb7a66">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/engine.io-client-0.5.1-3e2dfdc17ae6148b179542da87208f4af7bcca1b.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/classes-0109e6ede38444674f0467293486ae814073eb2a.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/classes-d1afe91eb46f8d08bc390b68761a6171af2df487.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-cd26779e826364c19bde34adfe633085418796be.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.5.2/41182e10002a59498572181410172744abd0f637/socket.io-client-0.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41182e10002a59498572181410172744abd0f637">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/socket.io-client-0.5.2-e3233f391c1cd6c80159963c27ba4b4a7c8480e3.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-d8012d77440c9bb0d2ac7b85e8124dc03c149457.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/classes-37d4900462a1e114f3e643af80153781772841e1.jar" />
+    </item>
+    <item
+        jar="/home/ckilee/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/ckilee/AndroidStudioProjects/AndroidClientChat/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0-5cf797d2edf1d6f3231a0f1556c3b870b8a53b79.jar" />
+    </item>
+
+</items>
